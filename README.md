@@ -2,6 +2,9 @@
 
 A simple console application that demonstrates bubble sort algorithm.
 
+## Screenshot
+![Bubble Sort Demo Image](BubbleSortDemo.gif)
+
 ## Why do I made this project?
 
 I've started to learn C# course in #CS_INTERNSHIP program. In this course, I've to write a program which has a method for sorting numbers with the bubble sort algorithm.
@@ -24,5 +27,4 @@ But I've decided to make it even more amazing, so I created this project to do a
 - Download tha whole project. It's a rugular C# applicatino source code. `.\BubbleSortDemo` contains source code, project file and solutin file.
 - There is a UnitTest in `.\UnitTest_BubbleSort` folder to test the bubble sort method. 
 
-## Screenshot
-![Bubble Sort Demo Image](BubbleSortDemo.gif)
+
